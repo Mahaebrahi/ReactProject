@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactProject1%20/static/css/main.3aa14685.css",
+    "main.js": "/ReactProject1%20/static/js/main.1993c728.js",
+    "static/js/787.0edbcda9.chunk.js": "/ReactProject1%20/static/js/787.0edbcda9.chunk.js",
+    "static/media/color-sharp.png": "/ReactProject1%20/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/project2.jpeg": "/ReactProject1%20/static/media/project2.f988c79dfb7020cda6c9.jpeg",
+    "static/media/3e660d90.jpeg": "/ReactProject1%20/static/media/bebb3022d5e3f709336df746ba74529d3e660d90.efefba72ac91b711affe.jpeg",
+    "static/media/gratisography-rain-cloud-free-stock-photo-800x525.jpg": "/ReactProject1%20/static/media/gratisography-rain-cloud-free-stock-photo-800x525.b206f0f095efef6bfca3.jpg",
+    "static/media/project1.jpeg": "/ReactProject1%20/static/media/project1.df30daba6bdedc1a630e.jpeg",
+    "static/media/d29d4b4d.jpeg": "/ReactProject1%20/static/media/f243f8c3d9784b95c12324f3280f8934d29d4b4d.6210445eb206d0ce349b.jpeg",
+    "static/media/revicons.eot": "/ReactProject1%20/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ReactProject1%20/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ReactProject1%20/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/ReactProject1%20/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/ReactProject1%20/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/ReactProject1%20/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "index.html": "/ReactProject1%20/index.html",
+    "main.3aa14685.css.map": "/ReactProject1%20/static/css/main.3aa14685.css.map",
+    "main.1993c728.js.map": "/ReactProject1%20/static/js/main.1993c728.js.map",
+    "787.0edbcda9.chunk.js.map": "/ReactProject1%20/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa14685.css",
+    "static/js/main.1993c728.js"
+  ]
+}
